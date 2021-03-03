@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #e2edff;
+}
+
+#gallery {
+  background-color: #e2edff;
+  text-align: center;
+}
+
+section {
+  padding-top: 6rem;
+}
